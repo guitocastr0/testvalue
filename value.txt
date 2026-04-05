@@ -1,2 +1,2 @@
 value=3600
-tx=2026-04-04|21:15|PIX enviado|-1000.00|Jose da graca dos santos
+tx=2026-04-04|21:15|Pix enviado|-1000.00|Jose da graca dos santos
