@@ -1,2 +1,4 @@
-value=3600
+value=3268.20
+tx=2026-04-06|21:15|Pix enviado|-331.80|DEMERGE BRASIL FACILITADO
 tx=2026-04-04|21:15|Pix enviado|-1000.00|Jose da graca dos santos
+3600
