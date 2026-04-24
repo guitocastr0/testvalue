@@ -1,4 +1,4 @@
-value=0.00
+value=1000.00
 tx=2026-04-20|11:07|Pix enviado|-1060.00|Jose Francisco Coelho
 tx=2026-04-12|08:57|Pix enviado|-49.26|Claro S.A
 tx=2026-04-11|18:17|Pix enviado|-115.50|DEMERGE BRASIL FACILITADO
