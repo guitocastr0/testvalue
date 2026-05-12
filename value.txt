@@ -1,4 +1,4 @@
-value=0
+value=1300
 tx=2026-05-06|18:35|Pix enviado|-237.00|Guilherme de Castro Coelho
 tx=2026-05-04|18:49|Pix enviado|-1000.00|Jose da graca dos santos
 tx=2026-04-20|11:07|Pix enviado|-1060.00|Jose Francisco Coelho
