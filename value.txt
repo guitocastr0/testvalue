@@ -1,4 +1,4 @@
-value=865.50
+value=1665.50
 tx=2026-05-12|12:07|Pix Recebido|+115.50|DEMERGE BRASIL FACILITADO
 tx=2026-05-11|20:05|Pix enviado|-49.26|Claro S.A
 tx=2026-05-06|18:35|Pix enviado|-237.00|Guilherme de Castro Coelho
