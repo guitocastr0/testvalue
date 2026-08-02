@@ -1,4 +1,4 @@
-value=908.65
+value=1108.65
 tx=2026-08-01|17:46|Pix Recebido|+1400.00|Jose Francisco Coelho
 tx=2026-07-20|19:28|Pix enviado|-1060.00|Jose Francisco Coelho
 tx=2026-07-05|00:00|Liquido de vencimento|+1288.65|Labsynth p 05146247100015
