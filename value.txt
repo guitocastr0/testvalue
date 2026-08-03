@@ -1,4 +1,6 @@
-value=1308.65
+value=0
+
+tx=2026-08-03|20:04|Pix enviado|-1000.00|Guilherme de Castro Coelho
 tx=2026-08-01|17:46|Pix Recebido|+1400.00|Jose Francisco Coelho
 tx=2026-07-20|19:28|Pix enviado|-1060.00|Jose Francisco Coelho
 tx=2026-07-05|00:00|Liquido de vencimento|+1288.65|Labsynth p 05146247100015
