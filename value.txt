@@ -1,4 +1,4 @@
-value=1350.00
+value=1250.00
 tx=2026-08-20|21:38|Pix enviado|-1061.00|Jose Francisco Coelho
 tx=2026-08-05|21:00|Pix enviado|-1000.00|Jose da graca dos santos
 tx=2026-08-05|00:00|Liquido de vencimento|+2101.99|Labsynth p 05146247100015
