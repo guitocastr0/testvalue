@@ -1,5 +1,5 @@
-value=150
-tx=2026-09-30|19:25|Pagt Emprestimo|-1200.00|Santander
+value=61
+tx=2026-09-30|19:25|Pagt Emprestimo|-1289.00|Santander
 tx=2026-09-21|05:25|Pix enviado|-1060.00|Jose Francisco Coelho
 tx=2026-09-16|09:20|Pix enviado|-1050.00|Guilherme de Castro Coelho
 tx=2026-09-04|00:00|Liquido de vencimento|+3205.02|Labsynth p 05146247100015
