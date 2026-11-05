@@ -1,4 +1,4 @@
-value=0
+value=1400
 tx=2026-11-02|00:00|Seguro|-79.92|MENSALIDADE DE SEGURO Parc 009/012 AP
 tx=2026-10-19|00:00|Liquido de vencimento|+1277.92|Labsynth p 05146247100015
 tx=2026-10-01|05:31|Pix Recebido|+1400.00|Jose Francisco Coelho
