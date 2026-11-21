@@ -1,4 +1,4 @@
-value=3256
+value=3006
 tx=2026-11-20|15:25|Pix enviado|-1060.00|Jose Francisco Coelho
 tx=2026-11-19|07:30|Pix Recebido|+1500.00|Guilherme de Castro Coelho
 tx=2026-11-14|08:37|Pix enviado|-1500.00|Guilherme de Castro Coelho
